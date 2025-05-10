@@ -20,12 +20,12 @@ export default function Home() {
   if (!mounted) return null
 
   const socialLinks = [
-    { icon: <Twitter size={20} />, label: "Twitter", href: "https://twitter.com", delay: 0.1 },
-    { icon: <Instagram size={20} />, label: "Instagram", href: "https://instagram.com", delay: 0.2 },
-    { icon: <Facebook size={20} />, label: "Facebook", href: "https://facebook.com", delay: 0.3 },
-    { icon: <Linkedin size={20} />, label: "LinkedIn", href: "https://linkedin.com", delay: 0.4 },
-    { icon: <Github size={20} />, label: "GitHub", href: "https://github.com", delay: 0.5 },
-    { icon: <GitlabIcon size={20} />, label: "GitLab", href: "https://gitlab.com", delay: 0.6 },
+    { icon: <Twitter size={20} />, label: "X", href: "https://x.com/eduedudev", delay: 0.1 },
+    { icon: <Instagram size={20} />, label: "Instagram", href: "https://instagram.com/eduedu.dev", delay: 0.2 },
+    { icon: <Facebook size={20} />, label: "Facebook", href: "https://facebook.com/eduedudev", delay: 0.3 },
+    { icon: <Linkedin size={20} />, label: "LinkedIn", href: "https://linkedin.com/in/eduedudev", delay: 0.4 },
+    { icon: <Github size={20} />, label: "GitHub", href: "https://github.com/eduedudev", delay: 0.5 },
+    { icon: <GitlabIcon size={20} />, label: "GitLab", href: "https://gitlab.com/eduedudev", delay: 0.6 },
     { icon: <Globe size={20} />, label: "eduedu.dev", href: "https://eduedu.dev", delay: 0.7 },
     { icon: <Mail size={20} />, label: "hi@eduedu.dev", href: "mailto:hi@eduedu.dev", delay: 0.8 },
   ]
@@ -61,7 +61,7 @@ export default function Home() {
             <div className="w-full h-full rounded-full overflow-hidden bg-black relative">
               <div className="absolute inset-0 bg-gradient-to-br from-green-500/20 to-transparent z-10" />
               <Image
-                src="/placeholder.svg?height=200&width=200"
+                src="/placeholder.jpg?height=200&width=200"
                 alt="Eduardo Guastay"
                 width={200}
                 height={200}

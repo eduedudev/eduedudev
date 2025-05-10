@@ -41,8 +41,7 @@ export const metadata: Metadata = {
       name: "Eduardo Guastay",
       url: "https://eduedu.dev",
     },
-  ],
-    generator: 'v0.dev'
+  ]
 }
 
 export default function RootLayout({
