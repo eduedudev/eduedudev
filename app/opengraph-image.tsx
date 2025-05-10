@@ -12,6 +12,10 @@ export const size = {
 
 export const contentType = "image/png"
 
+const baseUrl = process.env.NODE_ENV === "development"
+    ? "http://localhost:3000"
+    : `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`;
+
 // Font
 const spaceGrotesk = fetch(
     new URL("https://fonts.gstatic.com/s/spacegrotesk/v21/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf"),
@@ -97,14 +101,15 @@ export default async function Image() {
                         background: "linear-gradient(135deg, rgba(0,255,0,0.2) 0%, rgba(0,0,0,0) 70%)",
                     }}
                 />
-                <div
+                <img
+                    src={`${baseUrl}/placeholder.jpg`}
+                    alt="Profile"
                     style={{
-                        fontSize: "80px",
-                        color: "#00ff00",
+                        width: "100%",
+                        height: "100%",
+                        objectFit: "cover",
                     }}
-                >
-                    EG
-                </div>
+                />
             </div>
 
             <div
@@ -159,7 +164,7 @@ export default async function Image() {
                     gap: "20px",
                 }}
             >
-                {["Twitter", "GitHub", "LinkedIn", "Instagram"].map((platform) => (
+                {["X", "GitHub", "LinkedIn", "Instagram"].map((platform) => (
                     <div
                         key={platform}
                         style={{
