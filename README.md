@@ -1,73 +1,111 @@
-![Astro Sphere Lighthouse Score](_astrosphere.jpg)
+<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h3 align="center">Software Engineer | Microservices Architect | DevSecOps Enthusiast</h3>
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
+<p align="center">
+  <a href="https://eduedu.dev" target="_blank">
+    🌐 eduedu.dev
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/eduedudev/" target="_blank">
+    💼 LinkedIn
+  </a>
+</p>
 
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+---
 
-## 🚀 Deploy your own
+## 👨‍💻 About Me
 
-[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere)
+I’m a software engineer passionate about designing **scalable, secure, and event-driven systems**.
 
-## 📋 Features
+I specialize in:
 
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
-- ✅ Searchable content (posts and projects)
+- 🧱 Microservices Architecture
+- 🧠 Domain-Driven Design (DDD)
+- 🔐 DevSecOps & Secure Software Engineering
+- ☁️ Kubernetes & Cloud-native deployments
+- ⚡ Event-driven systems with Kafka / RabbitMQ
+- 🔗 GraphQL APIs & API Gateway design
 
-## 💯 Lighthouse score
-![Astro Sphere Lighthouse Score](_lighthouse.png)
+I enjoy building SaaS platforms from scratch, designing clean architectures, and solving complex distributed system challenges.
 
-## 🕊️ Lightweight
-All pages under 100kb (including fonts)
+---
 
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
+## 🏗️ Architecture Mindset
 
-## 📄 Configuration
+I believe in:
 
-The blog posts on the demo serve as the documentation and configuration.
+- Clean Architecture
+- Explicit Domain Modeling
+- Event-Driven Communication
+- Observability by design
+- Security as a first-class citizen
+- CI/CD with controlled production releases
 
-## 💻 Commands
+---
 
-All commands are run from the root of the project, from a terminal:
+## 🛠️ Tech Stack
 
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
+### Backend
+- Java (Spring Boot)
+- NestJS
+- Node.js
+- GraphQL
+- REST (when necessary)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run sync`            | Generates TypeScript types for all Astro modules.|
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-| `npm run lint`            | Run ESLint                                       |
-| `npm run lint:fix`        | Auto-fix ESLint issues                           |
+### Architecture & Messaging
+- Kafka
+- RabbitMQ
+- Event-driven systems
+- API Gateway pattern
 
-## 🗺️ Roadmap
+### DevOps & Infrastructure
+- Kubernetes
+- Docker
+- ArgoCD
+- GitLab CI/CD
+- SonarQube
+- Observability & Logging
 
-A few features I plan to implement
-- ⬜ Code Blocks - copy to clipboard
-- ⬜ Article Pages - Table of Contents
-- ⬜ Article Pages - Share on social media
+### Databases
+- PostgreSQL
+- MariaDB
+- Redis
+- MinIO
 
-## ✨ Acknowledgement
+---
 
-Theme inspired by [Paco Coursey](https://paco.me/), [Lee Robinson](https://leerob.io/) and [Hayden Bleasel](https://www.haydenbleasel.com/)
+## 📌 Current Focus
 
+- Advanced Microservices Architecture
+- Secure Identity & Authorization Systems
+- Kubernetes Production Environments
+- Distributed System Observability
+- AI-assisted Project Architecture
 
-## 🏛️ License
+---
 
-MIT
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+If you're working on:
+
+- SaaS platforms
+- Distributed systems
+- Kubernetes environments
+- Secure architectures
+
+Let’s talk 👇
+
+🌐 https://eduedu.dev  
+💼 https://www.linkedin.com/in/eduedudev/
+
+---
+
+⭐️ _“Architecture is not about tools. It’s about clarity, boundaries, and long-term thinking.”_
