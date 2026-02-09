@@ -2,214 +2,109 @@
 
 # 👨‍💻 Eduardo Guastay
 
-### Software Developer | Full Stack Engineer | Technology Enthusiast
+### Software Developer | Full Stack Engineer
 
-[![Website](https://img.shields.io/badge/Website-eduedudev.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduedudev.github.io/eduedudev)
-[![GitHub](https://img.shields.io/badge/GitHub-eduedudev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduedudev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-success?style=for-the-badge&logo=vercel&logoColor=white)](https://eduedudev.github.io/eduedudev)
+[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-eduedu.dev-0066FF?style=for-the-badge)](https://eduedu.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-eduedudev-181717?style=for-the-badge&logo=github)](https://github.com/eduedudev)
 
-![Astro Sphere](_astrosphere.jpg)
+---
+
+## 🚀 Welcome to My Portfolio
+
+This is the source code for my personal website and portfolio. Visit **[eduedu.dev](https://eduedu.dev)** to see it live!
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 👤 About
 
-Hello! I'm **Eduardo Guastay**, a passionate software developer dedicated to creating innovative and efficient solutions. This repository serves as my personal portfolio and blog, showcasing my journey, projects, and expertise in software development.
+I'm Eduardo Guastay, a passionate software developer building modern web applications and creating innovative solutions.
 
-> **Visit my website:** [eduedudev.github.io/eduedudev](https://eduedudev.github.io/eduedudev)
+**🌐 Visit my website for:**
+- 💼 My professional experience
+- 🚀 Projects I've built
+- 📝 Technical blog posts
+- 📧 Contact information and social links
 
----
-
-## 💼 What I Do
-
-- 🚀 **Full Stack Development** - Building complete web applications from frontend to backend
-- ⚡ **Modern Technologies** - Working with cutting-edge frameworks and tools
-- 🎨 **UI/UX Design** - Creating beautiful, accessible, and responsive interfaces
-- 📝 **Technical Writing** - Sharing knowledge through blog posts and documentation
-- 🔧 **Problem Solving** - Finding elegant solutions to complex challenges
+> **Live Site:** [https://eduedu.dev](https://eduedu.dev)
 
 ---
 
 ## 🛠️ Tech Stack
 
-This portfolio is built with modern, performant technologies:
-
-<div align="center">
-
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Solid.js](https://img.shields.io/badge/Solid.js-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white)
-
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## ✨ Features
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Performance
-- ✅ **100/100** Lighthouse score
-- ✅ Lightning fast load times
-- ✅ Optimized bundle size
-- ✅ All pages under 100kb
-
-</td>
-<td width="50%">
-
-### 🎨 Design
-- ✅ Responsive design
-- ✅ Light/Dark theme
-- ✅ Smooth animations
-- ✅ Minimal & elegant UI
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔧 Technical
-- ✅ TypeScript for type safety
-- ✅ SEO optimized
-- ✅ Auto-generated sitemap
-- ✅ RSS feed support
-
-</td>
-<td width="50%">
-
-### 📝 Content
-- ✅ Blog with MDX support
-- ✅ Project showcase
-- ✅ Work experience
-- ✅ Searchable content
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Performance Metrics
-
-![Lighthouse Score](_lighthouse.png)
-
-<div align="center">
-
-**Perfect 100/100 Lighthouse Score** 🎯
-
-Performance • Accessibility • Best Practices • SEO
-
-</div>
-
----
-
-## 🚀 Getting Started
-
-Want to run this project locally or use it as a template? Follow these steps:
+## 💻 Development
 
 ### Prerequisites
-
 - Node.js 18+
-- pnpm (recommended) or npm
+- pnpm, npm, or yarn
 
-### Installation
+### Quick Start
 
 ```bash
-# Clone the repository
-git clone https://github.com/eduedudev/eduedudev.git
-
-# Navigate to the project directory
-cd eduedudev
-
 # Install dependencies
 pnpm install
 
-# Start the development server
+# Start development server
 pnpm run dev
+
+# Build for production
+pnpm run build
 ```
 
-Visit `http://localhost:4321` to see the site in action! 🎉
+### Available Commands
 
----
-
-## 💻 Available Commands
-
-| Command | Action |
-|---------|--------|
+| Command | Description |
+|---------|-------------|
 | `pnpm install` | Install dependencies |
-| `pnpm run dev` | Start local dev server at `localhost:4321` |
-| `pnpm run build` | Build production site to `./dist/` |
-| `pnpm run preview` | Preview production build locally |
+| `pnpm run dev` | Start dev server at `localhost:4321` |
+| `pnpm run build` | Build for production |
+| `pnpm run preview` | Preview production build |
 | `pnpm run lint` | Run ESLint |
-| `pnpm run lint:fix` | Auto-fix ESLint issues |
-
-> **Note:** Replace `pnpm` with `npm`, `yarn`, or `bun` based on your preference.
+| `pnpm run lint:fix` | Fix ESLint issues |
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```
 /
-├── public/          # Static assets
 ├── src/
-│   ├── components/  # Reusable components
+│   ├── components/  # Reusable UI components
 │   ├── content/     # Blog posts and projects
 │   ├── layouts/     # Page layouts
 │   ├── pages/       # Site pages
-│   └── styles/      # Global styles
-├── astro.config.mjs # Astro configuration
-└── package.json     # Project dependencies
+│   └── styles/      # Stylesheets
+├── public/          # Static assets
+└── package.json     # Dependencies
 ```
 
 ---
 
-## 🌐 Sections
+## 🤝 Connect
 
-- **🏠 Home** - Introduction and overview
-- **💼 Work** - Professional experience
-- **📝 Blog** - Technical articles and insights
-- **🚀 Projects** - Portfolio of my work
-- **🔍 Search** - Find content easily
+For all my social links, contact information, and more details about my work:
 
----
-
-## 🤝 Connect With Me
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 🌐 **Website:** [eduedudev.github.io/eduedudev](https://eduedudev.github.io/eduedudev)
-- 💼 **GitHub:** [@eduedudev](https://github.com/eduedudev)
-- 📧 **Get in Touch:** Visit my website for contact information
+**👉 Visit [eduedu.dev](https://eduedu.dev)**
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - feel free to use it as inspiration for your own portfolio!
-
----
-
-## 🙏 Acknowledgments
-
-- Built with [Astro](https://astro.build/)
-- Based on the amazing [Astro Sphere](https://github.com/markhorn-dev/astro-sphere) theme
-- Inspired by modern portfolio designs from [Paco Coursey](https://paco.me/), [Lee Robinson](https://leerob.io/), and [Hayden Bleasel](https://www.haydenbleasel.com/)
+MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
 <div align="center">
 
-**⭐ Star this repo if you find it helpful!**
-
 Made with ❤️ by Eduardo Guastay
 
-[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
+[⭐ Star this repo](https://github.com/eduedudev/eduedudev) if you find it helpful!
 
 </div>
