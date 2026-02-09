@@ -1,73 +1,215 @@
-![Astro Sphere Lighthouse Score](_astrosphere.jpg)
+<div align="center">
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
+# 👨‍💻 Eduardo Guastay
 
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+### Software Developer | Full Stack Engineer | Technology Enthusiast
 
-## 🚀 Deploy your own
+[![Website](https://img.shields.io/badge/Website-eduedudev.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduedudev.github.io/eduedudev)
+[![GitHub](https://img.shields.io/badge/GitHub-eduedudev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduedudev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-success?style=for-the-badge&logo=vercel&logoColor=white)](https://eduedudev.github.io/eduedudev)
 
-[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere)
+![Astro Sphere](_astrosphere.jpg)
 
-## 📋 Features
+</div>
 
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
-- ✅ Searchable content (posts and projects)
+---
 
-## 💯 Lighthouse score
-![Astro Sphere Lighthouse Score](_lighthouse.png)
+## 🌟 About Me
 
-## 🕊️ Lightweight
-All pages under 100kb (including fonts)
+Hello! I'm **Eduardo Guastay**, a passionate software developer dedicated to creating innovative and efficient solutions. This repository serves as my personal portfolio and blog, showcasing my journey, projects, and expertise in software development.
 
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
+> **Visit my website:** [eduedudev.github.io/eduedudev](https://eduedudev.github.io/eduedudev)
 
-## 📄 Configuration
+---
 
-The blog posts on the demo serve as the documentation and configuration.
+## 💼 What I Do
 
-## 💻 Commands
+- 🚀 **Full Stack Development** - Building complete web applications from frontend to backend
+- ⚡ **Modern Technologies** - Working with cutting-edge frameworks and tools
+- 🎨 **UI/UX Design** - Creating beautiful, accessible, and responsive interfaces
+- 📝 **Technical Writing** - Sharing knowledge through blog posts and documentation
+- 🔧 **Problem Solving** - Finding elegant solutions to complex challenges
 
-All commands are run from the root of the project, from a terminal:
+---
 
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
+## 🛠️ Tech Stack
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run sync`            | Generates TypeScript types for all Astro modules.|
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-| `npm run lint`            | Run ESLint                                       |
-| `npm run lint:fix`        | Auto-fix ESLint issues                           |
+This portfolio is built with modern, performant technologies:
 
-## 🗺️ Roadmap
+<div align="center">
 
-A few features I plan to implement
-- ⬜ Code Blocks - copy to clipboard
-- ⬜ Article Pages - Table of Contents
-- ⬜ Article Pages - Share on social media
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Solid.js](https://img.shields.io/badge/Solid.js-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white)
 
-## ✨ Acknowledgement
+</div>
 
-Theme inspired by [Paco Coursey](https://paco.me/), [Lee Robinson](https://leerob.io/) and [Hayden Bleasel](https://www.haydenbleasel.com/)
+---
 
+## ✨ Features
 
-## 🏛️ License
+<table>
+<tr>
+<td width="50%">
 
-MIT
+### 🎯 Performance
+- ✅ **100/100** Lighthouse score
+- ✅ Lightning fast load times
+- ✅ Optimized bundle size
+- ✅ All pages under 100kb
+
+</td>
+<td width="50%">
+
+### 🎨 Design
+- ✅ Responsive design
+- ✅ Light/Dark theme
+- ✅ Smooth animations
+- ✅ Minimal & elegant UI
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔧 Technical
+- ✅ TypeScript for type safety
+- ✅ SEO optimized
+- ✅ Auto-generated sitemap
+- ✅ RSS feed support
+
+</td>
+<td width="50%">
+
+### 📝 Content
+- ✅ Blog with MDX support
+- ✅ Project showcase
+- ✅ Work experience
+- ✅ Searchable content
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Performance Metrics
+
+![Lighthouse Score](_lighthouse.png)
+
+<div align="center">
+
+**Perfect 100/100 Lighthouse Score** 🎯
+
+Performance • Accessibility • Best Practices • SEO
+
+</div>
+
+---
+
+## 🚀 Getting Started
+
+Want to run this project locally or use it as a template? Follow these steps:
+
+### Prerequisites
+
+- Node.js 18+
+- pnpm (recommended) or npm
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/eduedudev/eduedudev.git
+
+# Navigate to the project directory
+cd eduedudev
+
+# Install dependencies
+pnpm install
+
+# Start the development server
+pnpm run dev
+```
+
+Visit `http://localhost:4321` to see the site in action! 🎉
+
+---
+
+## 💻 Available Commands
+
+| Command | Action |
+|---------|--------|
+| `pnpm install` | Install dependencies |
+| `pnpm run dev` | Start local dev server at `localhost:4321` |
+| `pnpm run build` | Build production site to `./dist/` |
+| `pnpm run preview` | Preview production build locally |
+| `pnpm run lint` | Run ESLint |
+| `pnpm run lint:fix` | Auto-fix ESLint issues |
+
+> **Note:** Replace `pnpm` with `npm`, `yarn`, or `bun` based on your preference.
+
+---
+
+## 📂 Project Structure
+
+```
+/
+├── public/          # Static assets
+├── src/
+│   ├── components/  # Reusable components
+│   ├── content/     # Blog posts and projects
+│   ├── layouts/     # Page layouts
+│   ├── pages/       # Site pages
+│   └── styles/      # Global styles
+├── astro.config.mjs # Astro configuration
+└── package.json     # Project dependencies
+```
+
+---
+
+## 🌐 Sections
+
+- **🏠 Home** - Introduction and overview
+- **💼 Work** - Professional experience
+- **📝 Blog** - Technical articles and insights
+- **🚀 Projects** - Portfolio of my work
+- **🔍 Search** - Find content easily
+
+---
+
+## 🤝 Connect With Me
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 🌐 **Website:** [eduedudev.github.io/eduedudev](https://eduedudev.github.io/eduedudev)
+- 💼 **GitHub:** [@eduedudev](https://github.com/eduedudev)
+- 📧 **Get in Touch:** Visit my website for contact information
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - feel free to use it as inspiration for your own portfolio!
+
+---
+
+## 🙏 Acknowledgments
+
+- Built with [Astro](https://astro.build/)
+- Based on the amazing [Astro Sphere](https://github.com/markhorn-dev/astro-sphere) theme
+- Inspired by modern portfolio designs from [Paco Coursey](https://paco.me/), [Lee Robinson](https://leerob.io/), and [Hayden Bleasel](https://www.haydenbleasel.com/)
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you find it helpful!**
+
+Made with ❤️ by Eduardo Guastay
+
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
+
+</div>
