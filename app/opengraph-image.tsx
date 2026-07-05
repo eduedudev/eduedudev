@@ -4,7 +4,7 @@ import { ImageResponse } from "next/og"
 export const runtime = "edge"
 
 // Image metadata
-export const alt = "Eduardo Guastay - Software Engineer"
+export const alt = "Eduardo Guastay - Software AI Engineer"
 export const size = {
     width: 1200,
     height: 630,
@@ -141,7 +141,7 @@ export default async function Image() {
                         fontFamily: "Space Grotesk",
                     }}
                 >
-                    Software Engineer
+                    Software AI Engineer
                 </p>
                 <p
                     style={{
@@ -153,7 +153,7 @@ export default async function Image() {
                         fontFamily: "Space Grotesk",
                     }}
                 >
-                    Philanthropist, Playboy, software developer and software engineer.
+                    Philanthropist, Playboy, Software AI Engineer.
                 </p>
             </div>
 

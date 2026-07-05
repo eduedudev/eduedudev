@@ -2,7 +2,7 @@
 export const runtime = "edge"
 
 // Image metadata
-export const alt = "Eduardo Guastay - Software Engineer"
+export const alt = "Eduardo Guastay - Software AI Engineer"
 export const size = {
   width: 1200,
   height: 630,

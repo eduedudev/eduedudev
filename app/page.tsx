@@ -92,7 +92,7 @@ export default function Home() {
               transition={{ delay: 0.7 }}
               className="text-xl font-medium text-green-500 mb-2"
             >
-              Software Engineer
+              Software AI Engineer
             </motion.div>
 
             <motion.p
@@ -101,7 +101,7 @@ export default function Home() {
               transition={{ delay: 0.8 }}
               className="text-gray-400 text-sm max-w-xs mx-auto"
             >
-              Philanthropist, Playboy, software developer and software engineer.
+              Philanthropist, Playboy, Software AI Engineer.
             </motion.p>
           </motion.div>
         </motion.div>
